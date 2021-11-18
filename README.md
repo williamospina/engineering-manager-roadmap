@@ -40,16 +40,17 @@ This is an intent to contribute with people interested to become an engineering 
       * Mobile
     * "DevOps" / Pipelines
     * SRE
-	   * Incident Management and Response
-	   * Performance Engineering
-	   * Chaos Engineering
+      * Incident Management and Response
+      * Performance Engineering
+      * Chaos Engineering
     * Infrastructure
-	   * Colocation
-	   * Cloud Infrastructure
-	   * Databases
+      * Colocation
+      * Cloud Infrastructure
+      * Databases
+      * Network
+    * Security
     * ML/AI
     * BI
-
 10. Frameworks
     * TOGAF
     * COBIT
