@@ -64,3 +64,6 @@ This is an intent to contribute with people interested to become an engineering 
     * Design Thinking.
     * System Thinking
     * Holocracy/Sociocracy
+
+# Disclaimer 
+This document don't an intend to replace formal education, in anyway.    Once, you are in a management position, you will realize that you need to continue learning not only technical stuff, but also managerial related topics.
